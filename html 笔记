@@ -32,6 +32,12 @@ col 一般作为colgroup子元素配合使用
 7hgroup/address 标题分组 通常放在header中标题分组 address表示地址
 8figure/figcaption 媒体的组合元素 ，比如图像，图标 figcaption 定义标题
 
+第三章 增强的表单
+1form 元素 定义一个表单，其他元素包含在form中。action属性 服务器地址 method表单发送到服务器的方法。get,pos
+get 数据附在网址之后主动提交给服务器。post方法是数据打包发送给服务器。
+input type 属性默认是text文本框，name属性，输入内容的识别名称。value属性。默认值。maxlength输入最大长度
+password 密码状态，submit 提交按钮。reset重置按钮，button普通按钮
+
 
 
   
