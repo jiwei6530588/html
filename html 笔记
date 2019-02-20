@@ -1,0 +1,10 @@
+1 html 开发工具
+2 html 基本格式
+3元素的概念，三个常用标签 h ,p ,hr
+4元素的属性 《标签 属性=参数1》 align 对齐方式 backgroud 背景色 table  border表格边框 通用属性id ,class,style,title
+5文本元素格式化 b em i strong small sub sup del 
+6超链接 href=链接。本地网页，图片， 邮件mailto:404907839@qq.com 到#id，name属性 target=_self当前位置（默认），-_blank新窗口,_top 的意思是打开时忽略所有的框架,_parent 意思在父窗口打开
+7img元素嵌入图片 src 必要属性，alt属性 当图片无法显示时候替代文字，width和height,title 鼠标移动上面显示的内容
+8
+
+
