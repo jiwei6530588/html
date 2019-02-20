@@ -1,3 +1,4 @@
+第一章 基础章节
 1 html 开发工具
 2 html 基本格式
 3元素的概念，三个常用标签 h ,p ,hr
@@ -21,9 +22,19 @@ col 一般作为colgroup子元素配合使用
 16 通用属性 id class style title dir lang  width ,height是属性值不需要单位，但在style中必须加单位
 属 accesskey tabindex  draggalbe hiddle contentedittable contextmenu data-yourvalue
 17补充 meta charset 字符编码 name content 作者和描述信息， http-equiv以http头发送 列表的嵌套，表格的嵌套
+第二章 html5 新布局
+1article nav aside figure header/footer hgroup address
+2header与footer
+3article 整个文章使用article 一段内容使用section
+4secion 本质上都是div快看作<div id=seciont>, <div id=article>
+5aside和nav 通常使用aside侧边栏 nav表示导航栏配 配合列表 display:inline排列一行 a text-decoration:none
+6time <time datetime=1987-45-23></time> datetaime ,pubdate发布日期
+7hgroup/address 标题分组 通常放在header中标题分组 address表示地址
+8figure/figcaption 媒体的组合元素 ，比如图像，图标 figcaption 定义标题
 
 
- 
+
+  
 
 
 
