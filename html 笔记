@@ -2,9 +2,31 @@
 2 html 基本格式
 3元素的概念，三个常用标签 h ,p ,hr
 4元素的属性 《标签 属性=参数1》 align 对齐方式 backgroud 背景色 table  border表格边框 通用属性id ,class,style,title
-5文本元素格式化 b em i strong small sub sup del 
+5文本元素格式化 b em i strong small sub sup del pre保持换行和空格
 6超链接 href=链接。本地网页，图片， 邮件mailto:404907839@qq.com 到#id，name属性 target=_self当前位置（默认），-_blank新窗口,_top 的意思是打开时忽略所有的框架,_parent 意思在父窗口打开
 7img元素嵌入图片 src 必要属性，alt属性 当图片无法显示时候替代文字，width和height,title 鼠标移动上面显示的内容
-8
+8绝对路徑和相对路进
+9无序列表ul li 有序列表 ol li type属性 dl dt dd
+10 表格元素 table 行tr 单元格td th标题行 colspan 横向合并 rowspan 纵向合并 caption给表格添加标题 
+thead\tfoot\tbody元素 colgroup用来组合列 为table子元素，必须放在caption元素之后，thead元素之前
+col 元素设置列的属性，他也可以用span属性
+col 一般作为colgroup子元素配合使用
+《colgroup span=2 style=width:200px》
+ <col style backgroud:red>
+11 特殊符号的使用 < &lt > &gt
+12 style元素与html样式基础 外部样式表 内部样式表 内联样式表
+13 内联框架 iframe src frameborder width height name（配合a标签）
+14 表格布局
+15 div 元素布局 快元素 h hr ul ol p table div 内联元素 b i br img a
+16 通用属性 id class style title dir lang  width ,height是属性值不需要单位，但在style中必须加单位
+属 accesskey tabindex  draggalbe hiddle contentedittable contextmenu data-yourvalue
+17补充 meta charset 字符编码 name content 作者和描述信息， http-equiv以http头发送 列表的嵌套，表格的嵌套
+
+
+ 
+
+
+
+
 
 
