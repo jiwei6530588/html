@@ -65,6 +65,10 @@ label属性放在option中opgroup中添加label属性
 4 textarea 多行文本框
 rows .cols属性
 不仅可以放在表单中。也可以放在其他快元素中
+5button 按钮
+是双标签，其内部可以配置图片和文字，进行更复杂的样式设计
+type属性有 submit reset button
+
 
 
 
